@@ -1,0 +1,12 @@
+[
+    {
+        "city": "kandy",
+        "country": "srilanka",
+        "start_date": "2025-11-14",
+        "end_date": "2025-11-18",
+        "budget": 5000.0,
+        "activities": [
+            "travelling"
+        ]
+    }
+]
